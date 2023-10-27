@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning ... as much as I can... Python, R, data science. 
+- 🌱 I’m currently learning ... as much as I can... Python, AI, Cybersecurity, R, Data Science. 
 
 <!---
 sthamilton2200/sthamilton2200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
